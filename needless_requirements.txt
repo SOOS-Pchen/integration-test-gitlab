@@ -1,0 +1,5 @@
+tensorflow-gpu
+flair
+nltk
+lightgbm 
+mamma-mia
